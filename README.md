@@ -106,9 +106,50 @@ To build a centralized visual dashboard that:
 
 ---
 
+
+---
 **VIEW OF MY DASHBOARD**
 
 <p align="center">
-  <img src="https://github.com/VedantVivek/Adventure-Sales-Dashboard/raw/main/Dashboard%20Sales.png" alt="Dashboard Preview" width="800"height="500"/>
+  <img src="https://github.com/VedantVivek/Adventure-Sales-Dashboard/raw/main/Dashboard%20images/Dashboard%20Sales.png" alt="Main Dashboard" width="800"/>
 </p>
+
+<details>
+<summary><b>Click to view more dashboard pages</b></summary>
+
+<br>
+
+- **Product Detail View**
+
+  <p align="center">
+    <img src="https://github.com/VedantVivek/Adventure-Sales-Dashboard/raw/main/Dashboard%20images/Product%20Detail.png" width="800"/>
+  </p>
+
+- **Customer Insights View**
+
+  <p align="center">
+    <img src="https://github.com/VedantVivek/Adventure-Sales-Dashboard/raw/main/Dashboard%20images/Customer%20Detail.png" width="800"/>
+  </p>
+
+- **Regional Map Insights**
+
+  <p align="center">
+    <img src="https://github.com/VedantVivek/Adventure-Sales-Dashboard/raw/main/Dashboard%20images/Map%20insights.png" width="800"/>
+  </p>
+
+- **Decomposition Tree**
+
+  <p align="center">
+    <img src="https://github.com/VedantVivek/Adventure-Sales-Dashboard/raw/main/Dashboard%20images/Decomposition%20Tree.png" width="800"/>
+  </p>
+
+- **Category Tooltip View**
+
+  <p align="center">
+    <img src="https://github.com/VedantVivek/Adventure-Sales-Dashboard/raw/main/Dashboard%20images/Category%20Tooltip.png" width="800"/>
+  </p>
+
+</details>
+
+---
 
