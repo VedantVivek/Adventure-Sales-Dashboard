@@ -1,9 +1,11 @@
 <h1 align="center"><b>AdventureWorks Sales Dashboard using Power BI</b></h1>
 
 <p align="center">
-An interactive Power BI dashboard that analyzes AdventureWorks' sales performance, product returns, customer behavior, and regional insights. <br>
-Built to support strategic business decisions using KPIs, data modeling, and engaging visuals.
+  An interactive Power BI dashboard that analyzes AdventureWorks' sales performance, product returns, customer behavior, and regional insights.  
+  <br>
+  Built to support strategic business decisions using KPIs, data modeling, and engaging visuals.
 </p>
+
 
 
 **SHORT DESCRIPTION :**
@@ -52,7 +54,7 @@ To build a centralized visual dashboard that:
 
 **KEY VISUALS USED :**
 
-  ### **KPI's (KEY PERFORMANCE INDICATORS)**
+   **KPI's (KEY PERFORMANCE INDICATORS)**
 
   - Total Sales  
   - Total Profit  
@@ -63,7 +65,7 @@ To build a centralized visual dashboard that:
   - Orders by Region  
   - Revenue vs Target
 
-  ### **CHART VISUALS USED**
+   **CHART VISUALS USED**
 
   - **Revenue Line Chart (Month-wise)**  
     Visualizes growth over time and helps assess seasonal sales impact
@@ -97,14 +99,9 @@ To build a centralized visual dashboard that:
 - Return trends prompted quality improvement actions for underperforming categories
 
 
-**RAW DATA LINK :**
-
-📁 [Click here to open the Raw Data Folder](./Raw%20Data/)
-
-
 **VIEW OF MY DASHBOARD**
 
 <p align="center">
-  <img src
-https://github.com/VedantVivek/Adventure-Sales-Dashboard/raw/main/Dashboard%20Sales.png" alt="Dashboard Preview" width="800"/>
+  <img src="https://github.com/VedantVivek/Adventure-Sales-Dashboard/raw/main/Dashboard%20Sales.png" alt="Dashboard Preview" width="800"/>
 </p>
+
