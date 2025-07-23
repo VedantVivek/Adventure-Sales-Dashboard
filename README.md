@@ -97,12 +97,12 @@ To build a centralized visual dashboard that:
 
 **BUSINESS IMPACT AND INSIGHTS :**
 
-- 📦 Bikes and Accessories contributed the most to sales volume and profit  
-- 📉 Clothing category had the highest return percentage (~15%)  
-- 🌍 North America drove over 60% of all orders  
-- 👑 Top 100 customers accounted for 60% of total revenue  
-- 🎯 Sales consistently improved quarter-over-quarter and beat targets in Q4  
-- 📊 Return trends prompted quality improvement actions for underperforming categories
+- Bikes and Accessories contributed the most to sales volume and profit  
+- Clothing category had the highest return percentage (~15%)  
+- North America drove over 60% of all orders  
+- Top 100 customers accounted for 60% of total revenue  
+- Sales consistently improved quarter-over-quarter and beat targets in Q4  
+- Return trends prompted quality improvement actions for underperforming categories
 
 ---
 
