@@ -109,6 +109,6 @@ To build a centralized visual dashboard that:
 **VIEW OF MY DASHBOARD**
 
 <p align="center">
-  <img src="https://github.com/VedantVivek/Adventure-Sales-Dashboard/raw/main/Dashboard%20Sales.png" alt="Dashboard Preview" width="800"/>
+  <img src="https://github.com/VedantVivek/Adventure-Sales-Dashboard/raw/main/Dashboard%20Sales.png" alt="Dashboard Preview" width="800"height="500"/>
 </p>
 
