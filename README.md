@@ -1,7 +1,7 @@
 <h1 align="center"><b>AdventureWorks Sales Dashboard using Power BI</b></h1>
 
 <p align="center">
-  An interactive Power BI dashboard that analyzes AdventureWorks' sales performance, product returns, customer behavior, and regional insights.  
+  An interactive Power BI dashboard that analyzes AdventureWorks sales performance, product returns, customer behavior, and regional insights.  
   <br>
   Built to support strategic business decisions using KPIs, data modeling, and engaging visuals.
 </p>
