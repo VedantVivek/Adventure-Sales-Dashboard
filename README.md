@@ -1,71 +1,110 @@
-<h1 align="center"><b>AdventureWorks Sales Performance Dashboard</b></h1>
+<h1 align="center"><b>AdventureWorks Sales Dashboard using Power BI</b></h1>
 
 <p align="center">
-An interactive Power BI dashboard to monitor sales, identify high-performing products, and uncover customer behavior insights. Built for business decision-making and data storytelling.
+An interactive Power BI dashboard that analyzes AdventureWorks' sales performance, product returns, customer behavior, and regional insights. <br>
+Built to support strategic business decisions using KPIs, data modeling, and engaging visuals.
 </p>
 
-**PROJECT OVERVIEW**
 
-This Power BI dashboard project visualizes the sales performance of AdventureWorks across multiple dimensions — including product categories, customer types, returns, profit, and regions. Designed for real-world business use, the report helps stakeholders take action with confidence.
+**SHORT DESCRIPTION :**
 
-**PURPOSE OF THE DASHBOARD**
-
-- Analyze monthly sales trends, revenue, and returns  
-- Compare actual performance against targets  
-- Understand regional sales distribution  
-- Identify top products and key customers  
-- Monitor return rates and segment customer behavior  
+- A dynamic Power BI dashboard providing comprehensive sales insights for AdventureWorks. It tracks orders, returns, customer segments, and product performance across categories and regions — enabling executives to act with clarity and confidence.
 
 
-**BUSINESS PROBLEM**
+**TECHNOLOGIES USED TO BUILD :**
 
-AdventureWorks required a centralized and intuitive analytics tool to explore product performance and customer data.  
-The existing data was fragmented across regions, making it hard to:
-- Track which products are most profitable
-- Pinpoint categories with high return rates
-- Identify customer segments by value and geography
-
-
-**KPIs (KEY PERFORMANCE INDICATORS)**
-
-- Total Sales  
-- Revenue vs Target  
-- Total Orders  
-- Total Customers  
-- Return Rate (%)  
-- Average Order Value  
-- Sales by Region  
-- Monthly Revenue Trend
+- **Power BI Desktop** – Main platform for report creation and interactivity  
+- **Power Query Editor** – Data cleaning, merging, and shaping  
+- **DAX (Data Analysis Expressions)** – Custom KPIs, calculations, logic-based visuals  
+- **Data Modeling** – Relationships between product, orders, region, and customer tables  
+- **Excel (.xlsx)** – Used as primary raw data source  
 
 
-**KEY VISUALS USED**
+**DATA SOURCE :**
 
-- **Revenue Line Chart (Month-wise)** – Highlights revenue growth over time  
-- **Target vs Actual Area Chart** – Shows performance against goals  
-- **Orders & Returns KPI Cards** – Key summary metrics  
-- **Orders by Category** – Visualizes demand by product types  
-- **Top 10 Products Table** – Sales, revenue, return rate  
-- **Customer Segmentation Table** – High-value customers and contribution  
-- **Return Rate Trend** – Product quality and returns tracking  
-- **Regional Sales Map** – Sales volume across countries  
+- The dataset includes:
+  - Sales orders by product and category
+  - Customer segments and return records
+  - Revenue trends over time
+  - Geographic sales distribution
+  - Product targets and profit margins
 
 
-**BUSINESS INSIGHTS**
+**BUSINESS PROBLEM :**
 
-- Bikes and Accessories drove majority of revenue  
-- Clothing had the highest return rate (~15%)  
-- Sales from North America outperformed other regions  
-- Top 100 customers contributed to 60% of total revenue  
-- Sales grew steadily Q1–Q4, outperforming targets in the final quarter
-
-
-**TECHNOLOGIES USED**
-
-- **Power BI Desktop** – Report and visual creation  
-- **Power Query** – Data cleaning and transformation  
-- **DAX** – Custom measures and KPIs  
-- **Excel (.xlsx)** – Raw dataset source  
-- **PNG** – Dashboard snapshot  
+AdventureWorks lacked a unified system to track and interpret its order, return, and profit data across departments.  
+Decision-makers struggled to:
+- Identify top-selling or highly returned products  
+- Track monthly revenue trends  
+- Recognize regional opportunities  
+- Segment customers by value or behavior  
 
 
+**GOAL OF THE DASHBOARD :**
 
+To build a centralized visual dashboard that:
+- Tracks monthly revenue and returns  
+- Highlights key customers and product segments  
+- Shows actual vs target performance  
+- Identifies high-return categories for quality improvement  
+- Supports executives in making supply chain, marketing, and product decisions  
+
+
+**KEY VISUALS USED :**
+
+  ### **KPI's (KEY PERFORMANCE INDICATORS)**
+
+  - Total Sales  
+  - Total Profit  
+  - Total Orders  
+  - Total Customers  
+  - Return Rate (%)  
+  - Monthly Revenue  
+  - Orders by Region  
+  - Revenue vs Target
+
+  ### **CHART VISUALS USED**
+
+  - **Revenue Line Chart (Month-wise)**  
+    Visualizes growth over time and helps assess seasonal sales impact
+
+  - **Target vs Actual Area Chart**  
+    Compares sales target to actual performance monthly
+
+  - **Orders by Product Category**  
+    Displays category-level contribution to total orders
+
+  - **Top 10 Products Table**  
+    Lists best-selling products along with returns and revenue
+
+  - **Orders by Region Map**  
+    Highlights regional sales distribution for market strategy
+
+  - **Return Rate Trend**  
+    Identifies quality or service-related product return patterns
+
+  - **Customer Segmentation Table**  
+    Breaks down top customers and their contribution to sales
+
+
+**BUSINESS IMPACT AND INSIGHTS :**
+
+- Bikes and Accessories contributed the most to sales volume and profit  
+- Clothing category had the highest return percentage (~15%)  
+- North America drove over 60% of all orders  
+- Top 100 customers accounted for 60% of total revenue  
+- Sales consistently improved quarter-over-quarter and beat targets in Q4  
+- Return trends prompted quality improvement actions for underperforming categories
+
+
+**RAW DATA LINK :**
+
+📁 [Click here to open the Raw Data Folder](./Raw%20Data/)
+
+
+**VIEW OF MY DASHBOARD**
+
+<p align="center">
+  <img src
+https://github.com/VedantVivek/Adventure-Sales-Dashboard/raw/main/Dashboard%20Sales.png" alt="Dashboard Preview" width="800"/>
+</p>
